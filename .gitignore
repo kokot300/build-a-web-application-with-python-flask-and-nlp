@@ -1,0 +1,7 @@
+venv/
+.idea/
+bin/
+include/
+lib/
+share/
+
